@@ -127,6 +127,7 @@ input{
     font-size: 16px;
     transition: all .5s;
     padding: 0;
+    color: white;
 }
 .header__main-screen__label{
     font-size: 16px;
